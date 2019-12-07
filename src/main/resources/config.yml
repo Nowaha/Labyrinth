@@ -1,0 +1,17 @@
+lowLoot:
+  - "1xCOOKED_BEEF"
+  - "5xMELON"
+  - "1xLEATHER_HELMET"
+  - "1xLEATHER_BOOTS"
+  - "1xFISHING_ROD:3"
+mediumLoot:
+  - "5xCOOKED_BEEF"
+  - "1xWOOD_SWORD:5"
+  - "1xFISHING_ROD:5"
+  - "5xEXP_BOTTLE"
+  - "1xCHAINMAIL_CHESTPLATE"
+highLoot:
+  - "1xMILK_BUCKET"
+  - "1xIRON_SWORD:20"
+  - "1xINSTAHEALTH"
+  - "1xDIAMOND_CHESTPLATE"

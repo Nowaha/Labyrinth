@@ -1,0 +1,13 @@
+name: Labyrinth
+version: 0.5
+main: me.nowaha.labyrinth.Labyrinth
+authors: [Nowaha]
+description: Labyrinth game
+website: www.noahverkaik.com
+depend:
+  - Essentials
+  - EssentialsSpawn
+commands:
+  labyrinth:
+    aliases:
+      - lr
